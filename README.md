@@ -3,10 +3,10 @@
 # Contents
 - Navigation
 - MVVM
-
-WIP:
 - Live Data
 - Rx Java
+
+WIP:
 - KTX
 - Room
 - DataBinding

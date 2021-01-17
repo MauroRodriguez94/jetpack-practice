@@ -8,8 +8,6 @@ class DetailViewModel: ViewModel() {
     val dogBreed = MutableLiveData<DogBreed>()
 
     fun fetch() {
-        val dogBreedMock = DogBreed("1", "Corgi", "15 years", "breedGroup", "bredFor", "temperament", "")
 
-        dogBreed.value = dogBreedMock
     }
 }
