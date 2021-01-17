@@ -5,9 +5,10 @@
 - MVVM
 - Live Data
 - Rx Java
+- KTX
+- Glide
 
 WIP:
-- KTX
 - Room
 - DataBinding
 - Palette
